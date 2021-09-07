@@ -1,0 +1,7 @@
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\obj\Debug\CS_PROJECT_1.csprojAssemblyReference.cache
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\obj\Debug\CS_PROJECT_1.csproj.CoreCompileInputs.cache
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\bin\Debug\CS_PROJECT_1.exe.config
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\bin\Debug\CS_PROJECT_1.exe
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\bin\Debug\CS_PROJECT_1.pdb
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\obj\Debug\CS_PROJECT_1.exe
+D:\agal\CS_PROJECT_1\CS_PROJECT_1\obj\Debug\CS_PROJECT_1.pdb
